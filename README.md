@@ -101,6 +101,7 @@ plt.show()
 ![simple linear regression model for predicting the marks scored](sam.png)
 <img width="1010" height="402" alt="image" src="https://github.com/user-attachments/assets/c3f85029-e92b-4565-af4f-f77790b9fd63" />
 
+<img width="606" height="467" alt="image" src="https://github.com/user-attachments/assets/4c49511c-cb65-401c-8bb0-27a51c545a06" />
 
 ## Result:
 Thus, Ridge, Lasso, and ElasticNet regularization models were implemented successfully to predict the car price and the model's performance was evaluated using R² score and Mean Squared Error.
